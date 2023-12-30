@@ -1,0 +1,26 @@
+# Dependency directories
+node_modules/
+
+# Production build directory
+build/
+
+# IDE and Editor folders
+.vscode/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# SvelteKit-specific files
+.svelte-kit/
+.svelte/
+svelte.config.js.map
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Optional: Generated files
+src/routes/__layout.svelte
+src/routes/__error.svelte
