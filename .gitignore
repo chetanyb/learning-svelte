@@ -24,3 +24,4 @@ svelte.config.js.map
 # Optional: Generated files
 src/routes/__layout.svelte
 src/routes/__error.svelte
+service-account.json
